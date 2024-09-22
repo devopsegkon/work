@@ -10,7 +10,7 @@
 In order to run the solution, please follow the following steps:
 
 1. Create a sub-directory on your mac.
-2. Download fetch.tar.gz to the sub-directory you created.
+2. Download [fetch tar gz file](https://drive.google.com/file/d/1OltztsIxGBSVqp1FlG7KEGbTA10QFfip/view?usp=drive_link) to the sub-directory you created.
 3. Execute: 
    - tar -xzvf fetch.tar.gz
    - cd fetch
