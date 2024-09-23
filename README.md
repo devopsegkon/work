@@ -1,6 +1,10 @@
 # Fetch Take-Home Exercise — Site Reliability Engineering
 The solution to the [take home exercise](https://fetch-hiring.s3.us-east-1.amazonaws.com/site-reliability-engineer/health-check.pdf) was written in Python.
+The solution is the file [fetch.py](https://github.com/devopsegkon/work/blob/main/fetch.py) .
 
+## How to Test the Solution
+
+In order to test that the solution works, please follow the following instructions:
 
 ## Pre-requisites
 
