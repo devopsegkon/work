@@ -1,4 +1,6 @@
 # Fetch Take-Home Exercise — Site Reliability Engineering
+The solution to the [take home exercise](https://fetch-hiring.s3.us-east-1.amazonaws.com/site-reliability-engineer/health-check.pdf) was written in Python.
+
 
 ## Pre-requisites
 
