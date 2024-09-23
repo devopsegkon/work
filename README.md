@@ -26,6 +26,6 @@ In order to run the solution, please follow the following steps:
 
 ## Alternatively, skip the Install and just run the executable file. 
 
-Alternatively, download the [file](https://drive.google.com/file/d/1nxRuCzfnv-6kguWHELEXbrsqqLTpM9Bb/view?usp=drive_link) fetch to a sub-directory on your mac. This file is an executable.  Run it as:
+Alternatively, download the [file](https://github.com/devopsegkon/work/blob/main/fetch) fetch to a sub-directory on your mac. This file is an executable.  Run it as:
 
 ./fetch <path-to-sample.yaml>
